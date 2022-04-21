@@ -3,196 +3,196 @@
 		"track": "Bahrain GP",
     "latitude": 26.0262, 
 		"longitude": 50.5063,
-    "round": "01"
-    "corners": 4
-    "speed": 6
+    "round": "01",
+    "corners": 4,
+    "speed": 6,
 	}, 
 	{
 		"city": "Saudi Arabian GP",
     "latitude": 21.3755, 
 		"longitude": 39.616,
-    "round": "02"
-    "corners": 3
-    "speed": 7
+    "round": "02",
+    "corners": 3,
+    "speed": 7,
 	}, 
 	{
 		"city": "Australian GP",
     "latitude": -37.843681, 
 		"longitude": 144.951035,
-     "round": "03"
-     "corners": 8
-     "speed": 2
+     "round": "03",
+     "corners": 8,
+     "speed": 2,
 
 	},
   {
 		"city": "Emilia Romagna GP",
     "latitude": 44.353058, 
 		"longitude": 11.714722,
-    "round": "04"
-    "corners": 
-    "speed":
+    "round": "04",
+    "corners": 7,
+    "speed": 3,
 
 	},
   {
 		"city": "Miami GP",
     "latitude": 25.957960, 
 		"longitude": -80.239311,
-    "round": "05"
-    "corners": 8
-    "speed": 2
+    "round": "05",
+    "corners": 8,
+    "speed": 2,
 
 	},
   {
 		"city": "Spanish GP",
     "latitude": 41.5687, 
 		"longitude": 2.2567,
-    "round": "06"
-    "corners": 8
-    "speed": 2
+    "round": "06",
+    "corners": 8,
+    "speed": 2,
 
 	},
   {
 		"city": "Monaco GP",
     "latitude": 43.7333, 
 		"longitude": 7.4167,
-    "round": "07"
-    "corners": 9
-    "speed": 1
+    "round": "07",
+    "corners": 9,
+    "speed": 1,
 
 	},
   {
 		"city": "Azerbaijan GP",
     "latitude": 40.3725, 
 		"longitude": 49.8533,
-    "round": "08"
-    "corners": 4
-    "speed": 6
+    "round": "08",
+    "corners": 4,
+    "speed": 6,
 
 	},
   {
 		"city": "Canadian GP",
     "latitude": 45.5040, 
 		"longitude": -73.5270,
-    "round": "09"
-    "corners": 4
-    "speed": 6
+    "round": "09",
+    "corners": 4,
+    "speed": 6,
 
 	},
   {
 		"city": "Great Britain GP",
     "latitude": 52.0738, 
 		"longitude": -1.0168,
-    "round": "10"
-    "corners": 8
-    "speed": 2
+    "round": "10",
+    "corners": 8,
+    "speed": 2,
 
 	},
   {
 		"city": "Austrian GP",
     "latitude": 47.2233, 
 		"longitude": 14.7616,
-    "round": "11"
-    "corners": 5
-    "speed": 5
+    "round": "11",
+    "corners": 5,
+    "speed": 5,
 
 	},
   {
 		"city": "French GP",
     "latitude": 46.8630, 
 		"longitude": 3.1660,
-    "round": "12"
-    "corners": 5
-    "speed": 5
+    "round": "12",
+    "corners": 5,
+    "speed": 5,
 
 	},
   {
 		"city": "Hungarian GP",
     "latitude": 47.506851, 
 		"longitude": 19.045776,
-    "round": "13"
-    "corners": 8
-    "speed": 2
+    "round": "13",
+    "corners": 8,
+    "speed": 2,
 
 	},
   {
 		"city": "Belgium GP",
     "latitude": 50.4838, 
 		"longitude": 5.8667,
-    "round": "14"
-    "corners": 4
-    "speed": 6
+    "round": "14",
+    "corners": 4,
+    "speed": 6,
 
 	},
   {
 		"city": "Dutch GP",
     "latitude": 52.3866, 
 		"longitude": 4.5379,
-    "round": "15"
-    "corners": 4
-    "speed": 6
+    "round": "15",
+    "corners": 4,
+    "speed": 6,
 
 	},
   {
 		"city": "Italian GP",
     "latitude": 45.6190, 
 		"longitude": 9.2870,
-    "round": "16"
-    "corners": 1
-    "speed": 9
+    "round": "16",
+    "corners": 1,
+    "speed": 9,
 
 	},
   {
 		"city": "Singapore GP",
     "latitude": 1.3766, 
 		"longitude": 103.8181,
-    "round": "17"
-    "corners": 9
-    "speed": 1
+    "round": "17",
+    "corners": 9,
+    "speed": 1,
 
 	},
   {
 		"city": "Japan GP",
     "latitude": 34.8392, 
 		"longitude": 136.5377,
-    "round": "18"
-    "corners": 5
-    "speed": 5
+    "round": "18",
+    "corners": 5,
+    "speed": 5,
 
 	},
   {
 		"city": "United States GP",
     "latitude": 30.133883, 
 		"longitude": -97.641144,
-    "round": "19"
-    "corners": 5
-    "speed": 5
+    "round": "19",
+    "corners": 5,
+    "speed": 5,
 
 	},
   {
 		"city": "Mexico GP",
     "latitude": 19.432608, 
 		"longitude": -99.133209,
-    "round": "20"
-    "corners": 8
-    "speed": 2
+    "round": "20",
+    "corners": 8,
+    "speed": 2,
 
 	},
   {
 		"city": "Brazil GP",
     "latitude": -23.7010, 
 		"longitude": -46.6970,
-    "round": "21"
-    "corners": 8
-    "speed": 2
+    "round": "21",
+    "corners": 8,
+    "speed": 2,
 
 	},
   {
 		"city": "Abu Dhabi GP",
     "latitude": 24.4667, 
 		"longitude": 54.3667,
-    "round": "22"
-    "corners": 5
-    "speed": 5
+    "round": "22",
+    "corners": 5,
+    "speed": 5,
 	},
 
 ]
