@@ -1,11 +1,182 @@
 [
 	{
-		"driver": "Max Verstappen",
-    "carCorners":  ,
-		"carSpeed": ,
+    "driver": "Max Verstappen",
+    "carCorners":  8,
+    "carSpeed": 10,
     "status": "Active",
-    "racecraft": "",
-    "team": "Red Bull Racing",
+    "rating": 132,
+    "team": "Red Bull",
     "nationality": "Netherlands"
+	}, 
+	{
+    "driver": "Lewis Hamilton",
+    "carCorners":  7,
+    "carSpeed": 6,
+    "status": "Active",
+    "rating": 107,
+    "team": "Mercedes",
+    "nationality": "Great Britain"
+	}, 
+	{
+    "driver": "Valtteri Bottas",
+    "carCorners":  ,
+    "carSpeed": ,
+    "status": "Active",
+    "rating": 67,
+    "team": "Alfa Romeo",
+    "nationality": "Finland"
+	}, 
+	{
+    "driver": "Sergio Perez",
+    "carCorners":  ,
+    "carSpeed": ,
+    "status": "Active",
+    "rating": 70,
+    "team": "Red Bull",
+    "nationality": "Mexico"
+	}, 
+	{
+    "driver": "Carlos Sainz",
+    "carCorners":  ,
+    "carSpeed": ,
+    "status": "Active",
+    "rating": 107,
+    "team": "Ferrari",
+    "nationality": "Spain"
+	}, 
+	{
+    "driver": "Lando Norris",
+    "carCorners":  ,
+    "carSpeed": ,
+    "status": "Active",
+    "rating": 108,
+    "team": "McLaren",
+    "nationality": "Great Britain"
+	}, 
+	{
+    "driver": "Charles Leclerc",
+    "carCorners":  ,
+    "carSpeed": ,
+    "status": "Active",
+    "rating": 106,
+    "team": "Ferrari",
+    "nationality": "Monaco"
+	}, 
+	{
+    "driver": "Daniel Ricciardo",
+    "carCorners":  ,
+    "carSpeed": ,
+    "status": "Active",
+    "rating": 92,
+    "team": "McLaren",
+    "nationality": "Australia"
+	}, 
+	{
+    "driver": "Pierre Gasly",
+    "carCorners":  ,
+    "carSpeed": ,
+    "status": "Active",
+    "rating": 82,
+    "team": "Alphatauri",
+    "nationality": "France"
+	}, 
+	{
+    "driver": "Fernando Alonso",
+    "carCorners":  ,
+    "carSpeed": ,
+    "status": "Active",
+    "rating": 87,
+    "team": "Alpine",
+    "nationality": "Spain"
+	}, 
+	{
+    "driver": "Esteban Ocon",
+    "carCorners":  ,
+    "carSpeed": ,
+    "status": "Active",
+    "rating": 84,
+    "team": "Alpine",
+    "nationality": "France"
+	}, 
+	{
+    "driver": "Sebastian Vettel",
+    "carCorners":  ,
+    "carSpeed": ,
+    "status": "Active",
+    "rating": 79,
+    "team": "Aston Martin",
+    "nationality": "Germany"
+	}, 
+	{
+    "driver": "Lance Stroll",
+    "carCorners":  ,
+    "carSpeed": ,
+    "status": "Active",
+    "rating": 74,
+    "team": "Aston Martin",
+    "nationality": "Canada"
+	}, 
+	{
+    "driver": "Yuki Tsunoda",
+    "carCorners":  ,
+    "carSpeed": ,
+    "status": "Active",
+    "rating": 52,
+    "team": "Aston Martin",
+    "nationality": "Japan"
+	}, 
+	{
+    "driver": "George Russell",
+    "carCorners":  ,
+    "carSpeed": ,
+    "status": "Active",
+    "rating": 87,
+    "team": "Mercedes",
+    "nationality": "Great Britain"
+	}, 
+	{
+    "driver": "Nicholas Latifi",
+    "carCorners":  ,
+    "carSpeed": ,
+    "status": "Active",
+    "rating": 75,
+    "team": "Williams",
+    "nationality": "Canada"
+	}, 
+	{
+    "driver": "Yuki Tsunoda",
+    "carCorners":  ,
+    "carSpeed": ,
+    "status": "Active",
+    "rating": 52,
+    "team": "Aston Martin",
+    "nationality": "Japan"
+	}, 
+	{
+    "driver": "Mick Schumacher",
+    "carCorners":  ,
+    "carSpeed": ,
+    "status": "Active",
+    "rating": 69,
+    "team": "HAAS",
+    "nationality": "Germany"
+	}, 
+	{
+    "driver": "Kevin Magnussen",
+    "carCorners":  ,
+    "carSpeed": ,
+    "status": "Active",
+    "rating": 86,
+    "team": "HAAS",
+    "nationality": "Denmark"
+	}, 
+	{
+    "driver": "Zhou Guanyu",
+    "carCorners":  ,
+    "carSpeed": ,
+    "status": "Active",
+    "rating": 69,
+    "team": "Alfa Romeo",
+    "nationality": "China"
 	}, 
 ]
