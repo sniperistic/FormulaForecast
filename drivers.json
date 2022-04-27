@@ -101,7 +101,7 @@
 	{
     "driver": "Sebastian Vettel",
     "carCorners":  6,
-    "carSpeed": 6,
+    "carSpeed": 5,
     "status": "Active",
     "rating": 79,
     "team": "Aston Martin",
@@ -110,7 +110,7 @@
 	{
     "driver": "Lance Stroll",
     "carCorners":  6,
-    "carSpeed": 6,
+    "carSpeed": 5,
     "status": "Active",
     "rating": 74,
     "team": "Aston Martin",
