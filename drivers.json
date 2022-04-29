@@ -1,7 +1,7 @@
 [
 	{
     "driver": "Max Verstappen",
-    "carCorners":  9,
+    "carCorners":  8,
     "carSpeed": 10,
     "status": "Active",
     "rating": 132,
@@ -28,7 +28,7 @@
 	}, 
 	{
     "driver": "Sergio Perez",
-    "carCorners":  9,
+    "carCorners":  8,
     "carSpeed": 10,
     "status": "Active",
     "rating": 70,
