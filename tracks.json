@@ -5,7 +5,9 @@
 		"longitude": 50.5063,
     "round": "01",
     "corners": 4,
-    "speed": 6
+    "speed": 6,
+		"laps": 57,
+		"tlength": 5.4
 	}, 
 	{
 		"city": "Saudi Arabian GP",
@@ -13,7 +15,9 @@
 		"longitude": 39.616,
     "round": "02",
     "corners": 3,
-    "speed": 7
+    "speed": 7,
+		"laps": 50,
+		"tlength": 6.2
 	}, 
 	{
 		"city": "Australian GP",
@@ -21,7 +25,9 @@
 		"longitude": 144.951035,
      "round": "03",
      "corners": 8,
-     "speed": 2
+     "speed": 2,
+		"laps": 58,
+		"tlength": 5.3
 
 	},
   {
@@ -30,7 +36,9 @@
 		"longitude": 11.714722,
     "round": "04",
     "corners": 7,
-    "speed": 3
+    "speed": 3,
+		"laps": 63,
+		"tlength": 4.9
 
 	},
   {
@@ -39,7 +47,9 @@
 		"longitude": -80.239311,
     "round": "05",
     "corners": 8,
-    "speed": 2
+    "speed": 2,
+		"laps": 57,
+		"tlength": 5.4
 
 	},
   {
@@ -48,7 +58,9 @@
 		"longitude": 2.2567,
     "round": "06",
     "corners": 8,
-    "speed": 2
+    "speed": 2,
+		"laps": 57,
+		"tlength": 5.4
 
 	},
   {
@@ -57,7 +69,9 @@
 		"longitude": 7.4167,
     "round": "07",
     "corners": 9,
-    "speed": 1
+    "speed": 1,
+		"laps": 57,
+		"tlength": 5.4
 
 	},
   {
@@ -66,7 +80,9 @@
 		"longitude": 49.8533,
     "round": "08",
     "corners": 4,
-    "speed": 6
+    "speed": 6,
+		"laps": 57,
+		"tlength": 5.4
 
 	},
   {
@@ -75,7 +91,9 @@
 		"longitude": -73.5270,
     "round": "09",
     "corners": 4,
-    "speed": 6
+    "speed": 6,
+		"laps": 57,
+		"tlength": 5.4
 
 	},
   {
@@ -84,7 +102,9 @@
 		"longitude": -1.0168,
     "round": "10",
     "corners": 8,
-    "speed": 2
+    "speed": 2,
+		"laps": 57,
+		"tlength": 5.4
 
 	},
   {
@@ -93,7 +113,9 @@
 		"longitude": 14.7616,
     "round": "11",
     "corners": 5,
-    "speed": 5
+    "speed": 5,
+		"laps": 57,
+		"tlength": 5.4
 
 	},
   {
@@ -102,7 +124,9 @@
 		"longitude": 3.1660,
     "round": "12",
     "corners": 5,
-    "speed": 5
+    "speed": 5,
+		"laps": 57,
+		"tlength": 5.4
 
 	},
   {
@@ -111,7 +135,9 @@
 		"longitude": 19.045776,
     "round": "13",
     "corners": 8,
-    "speed": 2
+    "speed": 2,
+		"laps": 57,
+		"tlength": 5.4
 
 	},
   {
@@ -120,7 +146,9 @@
 		"longitude": 5.8667,
     "round": "14",
     "corners": 4,
-    "speed": 6
+    "speed": 6,
+		"laps": 57,
+		"tlength": 5.4
 
 	},
   {
@@ -129,7 +157,9 @@
 		"longitude": 4.5379,
     "round": "15",
     "corners": 4,
-    "speed": 6
+    "speed": 6,
+		"laps": 57,
+		"tlength": 5.4
 
 	},
   {
@@ -138,7 +168,9 @@
 		"longitude": 9.2870,
     "round": "16",
     "corners": 1,
-    "speed": 9
+    "speed": 9,
+		"laps": 57,
+		"tlength": 5.4
 
 	},
   {
@@ -147,7 +179,9 @@
 		"longitude": 103.8181,
     "round": "17",
     "corners": 9,
-    "speed": 1
+    "speed": 1,
+		"laps": 57,
+		"tlength": 5.4
 
 	},
   {
@@ -156,7 +190,9 @@
 		"longitude": 136.5377,
     "round": "18",
     "corners": 5,
-    "speed": 5
+    "speed": 5,
+		"laps": 57,
+		"tlength": 5.4
 
 	},
   {
@@ -165,7 +201,9 @@
 		"longitude": -97.641144,
     "round": "19",
     "corners": 5,
-    "speed": 5
+    "speed": 5,
+		"laps": 57,
+		"tlength": 5.4
 
 	},
   {
@@ -174,7 +212,9 @@
 		"longitude": -99.133209,
     "round": "20",
     "corners": 8,
-    "speed": 2
+    "speed": 2,
+		"laps": 57,
+		"tlength": 5.4
 
 	},
   {
@@ -183,7 +223,9 @@
 		"longitude": -46.6970,
     "round": "21",
     "corners": 8,
-    "speed": 2
+    "speed": 2,
+		"laps": 57,
+		"tlength": 5.4
 
 	},
   {
@@ -192,7 +234,9 @@
 		"longitude": 54.3667,
     "round": "22",
     "corners": 5,
-    "speed": 5
+    "speed": 5,
+		"laps": 57,
+		"tlength": 5.4
 	},
 
 ]
