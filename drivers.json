@@ -6,8 +6,9 @@
     "status": "Active",
     "rating": 132,
     "team": "Red Bull",
-    "nationality": "Netherlands"
-    "bestquote": "My career is more important than girls"
+    "nationality": "Netherlands",
+    "bestquote": "My career is more important than girls",
+	"rank": 1000	
 	}, 
 	{
     "driver": "Lewis Hamilton",
@@ -16,8 +17,9 @@
     "status": "Active",
     "rating": 107,
     "team": "Mercedes",
-    "nationality": "Great Britain"
-    "bestquote": "It takes me forever to read a book"
+    "nationality": "Great Britain",
+    "bestquote": "It takes me forever to read a book",
+		"rank": 1000	
 	}, 
 	{
     "driver": "Valtteri Bottas",
@@ -26,8 +28,9 @@
     "status": "Active",
     "rating": 67,
     "team": "Alfa Romeo",
-    "nationality": "Finland"
-    "bestquote": "To whom it may concern: f*** you"
+    "nationality": "Finland",
+    "bestquote": "To whom it may concern: f*** you",
+		"rank": 1000	
 	}, 
 	{
     "driver": "Sergio Perez",
@@ -36,8 +39,9 @@
     "status": "Active",
     "rating": 70,
     "team": "Red Bull",
-    "nationality": "Mexico"
-    "bestquote": "I'm speechless, guys"
+    "nationality": "Mexico",
+    "bestquote": "I'm speechless, guys",
+		"rank": 1000	
 	}, 
 	{
     "driver": "Carlos Sainz",
@@ -46,8 +50,9 @@
     "status": "Active",
     "rating": 107,
     "team": "Ferrari",
-    "nationality": "Spain"
-    "bestquote": "Smooth operator"
+    "nationality": "Spain",
+    "bestquote": "Smooth operator",
+		"rank": 1000	
 	}, 
 	{
     "driver": "Lando Norris",
@@ -56,8 +61,9 @@
     "status": "Active",
     "rating": 69,
     "team": "McLaren",
-    "nationality": "Great Britain"
-    "bestquote": "No no no you ruined my ice cream!"
+    "nationality": "Great Britain",
+    "bestquote": "No no no you ruined my ice cream!",
+		"rank": 1000	
 	}, 
 	{
     "driver": "Charles Leclerc",
@@ -66,8 +72,9 @@
     "status": "Active",
     "rating": 120,
     "team": "Ferrari",
-    "nationality": "Monaco"
-    "bestquote": "I am stupid"
+    "nationality": "Monaco",
+    "bestquote": "I am stupid",
+		"rank": 1000	
 	}, 
 	{
     "driver": "Daniel Ricciardo",
@@ -76,8 +83,9 @@
     "status": "Active",
     "rating": 92,
     "team": "McLaren",
-    "nationality": "Australia"
-    "bestquote": "Sometimes you just gotta lick the stamp and send it"
+    "nationality": "Australia",
+    "bestquote": "Sometimes you just gotta lick the stamp and send it",
+		"rank": 1000	
 	}, 
 	{
     "driver": "Pierre Gasly",
@@ -86,8 +94,9 @@
     "status": "Active",
     "rating": 82,
     "team": "Alphatauri",
-    "nationality": "France"
-    "bestquote": "Oh my god WHAT DID WE JUST DO???"
+    "nationality": "France",
+    "bestquote": "Oh my god WHAT DID WE JUST DO???",
+		"rank": 1000	
 
 	}, 
 	{
@@ -97,8 +106,9 @@
     "status": "Active",
     "rating": 87,
     "team": "Alpine",
-    "nationality": "Spain"
-    "bestquote": "I have hundreds of points. One point means nothing to me"
+    "nationality": "Spain",
+    "bestquote": "I have hundreds of points. One point means nothing to me",
+		"rank": 1000	
 	}, 
 	{
     "driver": "Esteban Ocon",
@@ -107,8 +117,9 @@
     "status": "Active",
     "rating": 84,
     "team": "Alpine",
-    "nationality": "France"
-    "bestquote": "You're doing great sweetie"
+    "nationality": "France",
+    "bestquote": "You're doing great sweetie",
+		"rank": 1000	
 	}, 
 	{
     "driver": "Sebastian Vettel",
@@ -117,8 +128,9 @@
     "status": "Active",
     "rating": 79,
     "team": "Aston Martin",
-    "nationality": "Germany"
-    "bestquote": "Like a ship, my car should be named after a girl as it's sexy"
+    "nationality": "Germany",
+    "bestquote": "Like a ship, my car should be named after a girl as it's sexy",
+		"rank": 1000	
 	}, 
 	{
     "driver": "Lance Stroll",
@@ -127,8 +139,9 @@
     "status": "Active",
     "rating": 74,
     "team": "Aston Martin",
-    "nationality": "Canada"
-    "bestquote": "I come from money"
+    "nationality": "Canada",
+    "bestquote": "I come from money",
+		"rank": 1000	
 	}, 
 	{
     "driver": "Yuki Tsunoda",
@@ -137,8 +150,9 @@
     "status": "Active",
     "rating": 52,
     "team": "Aston Martin",
-    "nationality": "Japan"
-    "bestquote": "It's ****** paradise, like traffic paradise"
+    "nationality": "Japan",
+    "bestquote": "It's ****** paradise, like traffic paradise",
+		"rank": 1000	
 	}, 
 	{
     "driver": "George Russell",
@@ -147,8 +161,9 @@
     "status": "Active",
     "rating": 87,
     "team": "Mercedes",
-    "nationality": "Great Britain"
-    "bestquote": "Growing up, I used to think Michael Schumacher was the best driver of all time, but after racing alongside Lewis Hamilton this season I realised I was right"
+    "nationality": "Great Britain",
+    "bestquote": "Growing up, I used to think Michael Schumacher was the best driver of all time, but after racing alongside Lewis Hamilton this season I realised I was right",
+		"rank": 1000	
 	}, 
 	{
     "driver": "Nicholas Latifi",
@@ -157,8 +172,9 @@
     "status": "Active",
     "rating": 75,
     "team": "Williams",
-    "nationality": "Canada"
-    "bestquote": "I'm sorry guys"
+    "nationality": "Canada",
+    "bestquote": "I'm sorry guys",
+		"rank": 1000	
 	}, 
 	{
     "driver": "Mick Schumacher",
@@ -167,8 +183,9 @@
     "status": "Active",
     "rating": 69,
     "team": "HAAS",
-    "nationality": "Germany"
-    "bestquote": "Holy cow that was close"
+    "nationality": "Germany",
+    "bestquote": "Holy cow that was close",
+		"rank": 1000	
 	}, 
 	{
     "driver": "Kevin Magnussen",
@@ -177,8 +194,9 @@
     "status": "Active",
     "rating": 86,
     "team": "HAAS",
-    "nationality": "Denmark"
-    "bestquote": "Suck my balls"
+    "nationality": "Denmark",
+    "bestquote": "Suck my balls",
+		"rank": 1000	
 	}, 
 	{
     "driver": "Zhou Guanyu",
@@ -187,8 +205,9 @@
     "status": "Active",
     "rating": 69,
     "team": "Alfa Romeo",
-    "nationality": "China"
-    "bestquote": ""
+    "nationality": "China",
+    "bestquote": "CHINA #1.",
+		"rank": 1000	
 	}, 
 	{
     "driver": "Alexander Albon",
@@ -197,7 +216,8 @@
     "status": "Active",
     "rating": 81,
     "team": "Alfa Romeo",
-    "nationality": "Thailand"
-    "bestquote": ""
+    "nationality": "Thailand",
+    "bestquote": "My hair is red",
+		"rank": 1000	
 	}, 
 ]
